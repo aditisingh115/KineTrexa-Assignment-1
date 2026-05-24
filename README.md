@@ -27,7 +27,7 @@ HTML, CSS, JavaScript
 │   │── index.html
 │   │── style.css
 │
-│── Taks 2/
+│── Taks 3/
 │   │── index.html
 │   │── style.css
 │   │── script.js
